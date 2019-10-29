@@ -32,13 +32,13 @@ Please see below demo:
 
 2. There are 4 functions the manager can do:
 
-..1. Review item inventory
+    1. Review item inventory
 
-..2. List out lower inventory items
+    2. List out lower inventory items
 
-..3. Add inventory to the item
+    3. Add inventory to the item
 
-..4. Add new items
+    4. Add new items
 
 Please see below demo:
 
