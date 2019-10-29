@@ -5,9 +5,9 @@ An application to mimic enterprise resource planning system.
 Create an application to practice **Javascript**, **Node.js** and **MySQL**.
 
 ## Technologies used and why
-[Javascript] is used to build user interface and read/write sql database.
-[Node.js] is an environment to execute javascript in terminal.
-[MySQL] is a database used to store ivnetory and sales data.
+**Javascript** is used to build user interface and read/write sql database.
+**Node.js** is an environment to execute javascript in terminal.
+**MySQL** is a database used to store ivnetory and sales data.
 
 ## How to use
 
@@ -15,7 +15,7 @@ Create an application to practice **Javascript**, **Node.js** and **MySQL**.
 
 1. By using `node bamazonCustomer.js`, as a customer is able to purchase multiple items.
 
-2. If the item is out of stock, terminal will return *Insufficient Inventory*.
+2. If the item is out of stock, terminal will return *'Insufficient Inventory'*.
 
 3. Once purchase decided, the customer will go to a casher to complete payment.
 
