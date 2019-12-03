@@ -1,8 +1,8 @@
-# bamazon
-An application to mimic enterprise resource planning system.
+# Bamazon
+Create an application to mimic enterprise resource planning system. The app takes in orders from customers and deplete stock from the store's inventory. It can also track product sales across store's departments and then provide a summary of the highest-grossing departments in the store.
 
 ## Motivation
-Create an application to practice **Javascript**, **Node.js** and **MySQL**.
+Create an application to practice Javascript, Node.js and MySQL.
 
 ## Technologies used and why
 **Javascript** is used to build user interface and read/write sql database.  
