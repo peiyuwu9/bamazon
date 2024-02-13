@@ -17,8 +17,8 @@ Create an application to practice Javascript, Node.js and MySQL.
 3. Once purchase decided, the customer will go to a casher to complete payment.
 
 Please see below demo:
-![bamazon_Customer](https://media.giphy.com/media/YkhE7bf91MaLI1yilG/giphy.gif)
-![bamazon_Customer](https://media.giphy.com/media/UUo0SuY1zRl5lDWjtq/giphy.gif)
+![bamazon_Customer](https://media.giphy.com/media/YkhE7bf91MaLI1yilG/giphy.gif)  
+![bamazon_Customer](https://media.giphy.com/media/UUo0SuY1zRl5lDWjtq/giphy.gif)  
 
 ------
 ### bamazon_Manager
