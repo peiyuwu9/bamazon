@@ -32,9 +32,13 @@ Please see below demo:
     4. Add new items
 
 Please see below demo:
+
 ![bamazon_Manager](https://media.giphy.com/media/giKJXzwQuK75fDQZKx/giphy.gif)
+
 ![bamazon_Manager](https://media.giphy.com/media/Kc2QE6NzJP1YzVuRXt/giphy.gif)
+
 ![bamazon_Manager](https://media.giphy.com/media/kgDNqc2LYZjqXOSOHy/giphy.gif)
+
 ![bamazon_Manager](https://media.giphy.com/media/f4D11Bq7bAOckoik1H/giphy.gif)
 
 ------
@@ -43,7 +47,11 @@ Please see below demo:
 2. Once new department generated, need to add a new item with manager app under that department in order to show department record in the table.
 
 Please see below demo:
+
 ![bamazon_Supervisor](https://media.giphy.com/media/jsgA3qNswQ10Exf6RK/giphy.gif)
+
 ![bamazon_Supervisor](https://media.giphy.com/media/VItrBgQRjjc4mCGV5o/giphy.gif)
+
 ![bamazon_Supervisor](https://media.giphy.com/media/gH1uLlOUvJWsOQ4K0X/giphy.gif)
+
 ![bamazon_Supervisor](https://media.giphy.com/media/cjhmJGL1eUQCRR3RVr/giphy.gif)
